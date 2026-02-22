@@ -1,14 +1,7 @@
-# 📘 HPC-Learning Notes
-
-A curated collection of notes, resources, and hands-on experiments that I personally used to learn **High Performance Computing (HPC)**.
-
-This repository documents my journey from understanding HPC fundamentals to working with parallel computing, job scheduling, and performance optimization in real-world environments.
-
----
-
 ## 🚀 About This Repository
 
-High Performance Computing (HPC) is used in scientific research, AI/ML, simulations, and large-scale data processing. This repository serves as a **structured guide** for learning HPC concepts along with practical examples.
+High Performance Computing (HPC) is used to perform Complex Calculations, Train ML models, Research, If you are crazy enough probably you can mine bitcoin by solving cryptographic puzzles(Don't do it it's not worth). 
+This repository serves as a **structured guide** for learning HPC concepts along with practical examples.
 
 The content here is based on:
 
