@@ -14,7 +14,7 @@ The content here is based on:
 
 ## 🧠 Topics Covered
 
-### 1. HPC Fundamentals
+### [HPC Fundamentals](./fundamentals/fundamentals.md)
 
 * What is High Performance Computing
 * Why HPC is important
