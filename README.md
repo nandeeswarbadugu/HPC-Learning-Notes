@@ -20,66 +20,66 @@ The content here is based on:
 * Why HPC is important
 * Real-world applications (AI, weather modeling, simulations)
 
-### 2. HPC Architecture
+### [HPC Architecture](./architecture/architecture.md)
 
 * Cluster architecture
 * Head node vs compute nodes
 * Networking between nodes
 * Storage systems in HPC
 
-### 3. Core Components
+### [Core Components](./components/components.md)
 
 * CPUs and multi-core processing
 * GPUs and accelerators
 * Memory hierarchy (cache, RAM)
 * High-speed interconnects (InfiniBand)
 
-### 4. Parallel Computing Models
+### [Parallel Computing Models](./models/models.md)
 
 * Shared Memory vs Distributed Memory
 * Multi-threading concepts
 * Data parallelism vs task parallelism
 
-### 5. MPI (Message Passing Interface)
+### [MPI (Message Passing Interface)](./mpi/mpi.md)
 
 * MPI basics
 * Point-to-point communication
 * Collective communication
 * Writing distributed programs
 
-### 6. OpenMP
+### [OpenMP](./openmp/openmp.md)
 
 * Multi-threaded programming
 * Parallel loops
 * Synchronization techniques
 
-### 7. GPU Computing
+### [GPU Computing](./gpu/computing.md)
 
 * Introduction to CUDA
 * GPU vs CPU execution
 * Parallel execution model
 
-### 8. Job Scheduling (SLURM)
+### [Job Scheduling (SLURM)](./slurm/scheduler.md)
 
 * Writing job scripts
 * sbatch, srun, squeue
 * Resource allocation
 * Running multi-node jobs
 
-### 9. Containers in HPC
+### [Containers in HPC](./containers/containers.md)
 
 * Docker basics
 * Singularity / Apptainer
 * Running containers on HPC clusters
 
-### 10. Performance Optimization
+### [Performance Optimization](./performance/optimization.md)
 
 * Profiling programs
 * Strong vs weak scaling
 * Memory optimization
 * Communication overhead reduction
 
-### 11. Hands-on Examples
+### [Hands-on Examples](./examples/examples.md)
 
 * MPI programs
 * OpenMP programs
@@ -95,6 +95,8 @@ HPC-Learning-Notes/
 │
 ├── fundamentals/          # Basic HPC concepts
 ├── architecture/         # HPC system design
+├── components/           # Components in HPC
+├── models/               # Models
 ├── mpi/                  # MPI programs and notes
 ├── openmp/               # OpenMP examples
 ├── gpu/                  # CUDA and GPU computing
