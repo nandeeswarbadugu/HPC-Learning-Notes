@@ -1,7 +1,7 @@
 ## 🚀 About This Repository
 
-High Performance Computing (HPC) is used to perform Complex Calculations, Train ML models, Research, If you are crazy enough probably you can mine bitcoin by solving cryptographic puzzles(Don't do it it's not worth). 
-This repository serves as a **structured guide** for learning HPC concepts along with practical examples.
+High Performance Computing (HPC) enables large-scale computations, scientific simulations, and machine learning workloads.  
+This repository is a **structured learning guide** covering core HPC concepts along with practical examples and hands-on implementations.
 
 The content here is based on:
 
