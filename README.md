@@ -153,6 +153,7 @@ The goal of this repository is to:
 This repository is based on resources I personally used:
 
 * Online courses (Coursera, university HPC training)
+  - [Coursera – High Performance Parallel Computing Specialization](https://www.coursera.org/specializations/high-performance-parallel-computing)
 * Official documentation (MPI, SLURM, CUDA)
 * Research articles and tutorials
 * Hands-on experiments on HPC clusters
